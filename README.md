@@ -21,13 +21,11 @@ I am currently open for full-time job in San Francisco Bay Area(CA, USA).
 <a href="https://www.linkedin.com/in/anastasia-germanova-419649170/"><img height="30" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/001-linkedin.svg"></a>&nbsp;&nbsp;
 </p>
 
+![Anastasia's github stats](https://github-readme-stats.vercel.app/api?username=AnastasiaGer&show_icons=true&theme=vue)
 
 <!--
 <p align="center">
     <img src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/custom%20%E2%80%93%201.svg" width="854" height="200" />
 </p>
-
-
-![Tina's github stats](https://github-readme-stats.vercel.app/api?username=tinakuzmenko&show_icons=true&theme=vue)
 
 -->
