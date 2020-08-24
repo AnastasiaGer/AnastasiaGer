@@ -1,6 +1,3 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/custom%20%E2%80%93%201.svg" width="854" height="200" />
-</p>
 
 ## **Hi and welcome! 🙋‍♀**
 
@@ -26,6 +23,11 @@ I am currently open for full-time job in San Francisco Bay Area(CA, USA).
 
 
 <!--
+<p align="center">
+    <img src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/custom%20%E2%80%93%201.svg" width="854" height="200" />
+</p>
+
+
 ![Tina's github stats](https://github-readme-stats.vercel.app/api?username=tinakuzmenko&show_icons=true&theme=vue)
 
 -->
