@@ -10,6 +10,7 @@ JavaScript libraries: React, Redux;
 Testing libraries: Jest, Enzyme;
 Code bundlers: Gulp, Webpack;
 UX/UI: Adobe Photoshop, Figma, Sketch, Zeplin.
+
 💌 Feel free to contact me if you have an open position that matches my skills.
 
 I am currently open for full-time job in San Francisco Bay Area(CA, USA).
