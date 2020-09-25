@@ -5,7 +5,7 @@ I am Anastasia Germanova - frontend developer with a strong passion of UX/UI des
 
 ### 🛠 My tech stack:
 
-- **Responsive web-development:** HTML5, CSS/SCSS;
+- **Responsive web-development:** HTML5, CSS/SCSS/LESS;
 - **Frontend:** JavaScript (ES5/ES6), TypeScript;
 - **JavaScript libraries:** React, Redux;
 - **Testing libraries:** Jest, Enzyme;
