@@ -7,7 +7,7 @@ I am Anastasia Germanova - frontend developer with a strong passion of UX/UI des
 
 - **Responsive web-development:** HTML5, CSS/SASS/LESS;
 - **Frontend:** JavaScript (ES5/ES6);
-- **JavaScript libraries:** React, Redux;
+- **JavaScript libraries:** React/Redux, Vue.js/Vuex;
 - **Testing libraries:** Jest, Enzyme;
 - **Code bundlers:** Gulp, Webpack;
 - **UX/UI:** Adobe Photoshop, Figma, Sketch, Zeplin.
