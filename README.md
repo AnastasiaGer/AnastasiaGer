@@ -1,32 +1,28 @@
+## Hi, I’m Anastasia Germanova 👋
 
-## **Hi and welcome! 🙋‍♀**
+I’m a **Senior Software Engineer** in the San Francisco Bay Area with 10 years of experience building web applications. I specialize in **frontend architecture and AI product experiences** with React and TypeScript.
 
-I am Anastasia Germanova - frontend developer with a strong passion of UX/UI design. Each day I create beautiful web-products using best practices and modern technologies.
+At **Intuit**, I lead frontend architecture for AI-powered customer experiences, build shared UI patterns used across engineering teams, and design flows that connect customers with human experts when they need help beyond AI.
 
-### 🛠 My tech stack:
+At **Samsung Research America**, I built the frontend for a conversational AI video avatar, taking it from prototype to a client-facing product and reducing page load time by 30%.
 
-- **Responsive web-development:** HTML5, CSS/SASS/LESS;
-- **Frontend:** JavaScript (ES5/ES6);
-- **JavaScript libraries:** React/Redux, Vue.js/Vuex;
-- **Testing libraries:** Jest, Enzyme;
-- **Code bundlers:** Gulp, Webpack;
-- **UX/UI:** Adobe Photoshop, Figma, Sketch, Zeplin.
+My background in UX design and psychology shapes how I build interfaces. I care about how an interaction feels, how it behaves while a response is streaming, and how reliably it works in production.
 
-### 💌 Feel free to contact me if you have an open position that matches my skills. 
+### 🛠 What I work with
 
-I am currently open for full-time job in San Francisco Bay Area(CA, USA).
+- **Frontend** · React, TypeScript, JavaScript, Redux, Vite
+- **UI architecture** · Design systems, component libraries, Storybook, WCAG accessibility
+- **AI interfaces** · LLM response streaming, conversational UI, asynchronous rendering
+- **APIs and testing** · GraphQL, REST, Jest, React Testing Library, Playwright
+
+### 💌 Let’s connect
+
+I’m open to full-time opportunities in the San Francisco Bay Area, especially with teams building AI products or investing in frontend architecture.
 
 <p align="center">
-<a href="mailto:aagermanova@gmail.com" target="_blank"><img height="50" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/003-email.svg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/anastasia-germanova-419649170/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/001-linkedin.svg"></a>&nbsp;&nbsp;
-<a href="https://germanova.site/" target="_blank"><img height="50" src="https://github.com/AnastasiaGer/germanova/blob/master/images/portfolio.png"></a>&nbsp;&nbsp;
+  <a href="mailto:aagermanova@gmail.com"><img height="50" alt="Email" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/003-email.svg"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/anastasia-germanova-419649170/"><img height="50" alt="LinkedIn" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/001-linkedin.svg"></a>&nbsp;&nbsp;
+  <a href="https://germanova.site/"><img height="50" alt="Portfolio" src="https://github.com/AnastasiaGer/germanova/blob/master/images/portfolio.png"></a>
 </p>
 
-![Anastasia's github stats](https://github-readme-stats.vercel.app/api?username=AnastasiaGer&show_icons=true&theme=vue)
-
-<!--
-<p align="center">
-    <img src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/custom%20%E2%80%93%201.svg" width="854" height="200" />
-</p>
-
--->
+![Anastasia’s GitHub stats](https://github-readme-stats.vercel.app/api?username=AnastasiaGer&show_icons=true&theme=vue)
