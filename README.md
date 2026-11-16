@@ -2,9 +2,7 @@
 
 I’m a **Senior Software Engineer** in the San Francisco Bay Area with 10 years of experience building web applications. I specialize in **frontend architecture and AI product experiences** with React and TypeScript.
 
-At **Intuit**, I lead frontend architecture for AI-powered customer experiences, build shared UI patterns used across engineering teams, and design flows that connect customers with human experts when they need help beyond AI.
-
-At **Samsung Research America**, I built the frontend for a conversational AI video avatar, taking it from prototype to a client-facing product and reducing page load time by 30%.
+I lead frontend architecture for AI-powered customer experiences, build shared UI patterns used across engineering teams, and design flows that connect customers with human experts. I also built the frontend for a conversational AI video avatar, taking it from prototype to a client-facing product and reducing page load time by 30%.
 
 My background in UX design and psychology shapes how I build interfaces. I care about how an interaction feels, how it behaves while a response is streaming, and how reliably it works in production.
 
